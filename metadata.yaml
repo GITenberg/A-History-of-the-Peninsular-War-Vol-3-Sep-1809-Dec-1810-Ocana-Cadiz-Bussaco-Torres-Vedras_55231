@@ -1,0 +1,29 @@
+_repo: A-History-of-the-Peninsular-War-Vol-3-Sep-1809-Dec-1810-Ocana-Cadiz-Bussaco-Torres-Vedras_55231
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oman, Charles
+    aliases:
+    - Oman, C. W. C. (Charles William Chadwick)
+    - Oman, Charles William Chadwick
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '39035'
+    url: http://www.gutenberg.org/2009/agents/39035
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Oman
+description: ''
+gutenberg_issued: '2017-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Peninsular War, 1807-1814'
+- GITenberg
+title: "A History of the Peninsular War, Vol. 3, Sep. 1809-Dec. 1810\r\nOcaña, Cadiz,\
+  \ Bussaco, Torres Vedras"
+url: http://www.gutenberg.org/ebooks/55231
